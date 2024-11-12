@@ -410,6 +410,11 @@ The "Promise Objects" section of the ECMAScript specification has many additiona
             <td>Simple Promises/A+ implementation, good for learning</td>
             <td>1.0</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/galaxyzen/Promizen">Promizen</a></td>
+            <td>Promizen: a promise implementation of Promises/A+ specification (MIT license)</td>
+            <td>1.1</td>
+        </tr>
     </tbody>
 </table>
 
